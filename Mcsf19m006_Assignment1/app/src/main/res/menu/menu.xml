@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+   >
+
+    <group
+        android:checkableBehavior="single">
+        <item
+            android:id="@+id/nav_animation"
+            android:title="Animated_Video"
+            android:icon="@drawable/animation">
+
+        </item>
+        <item
+            android:id="@+id/nav_Piano"
+            android:title="Animal_Piano"
+            android:icon="@drawable/cp"
+>
+
+        </item>
+        <item
+            android:id="@+id/nav_cpoem"
+            android:title="Bismillah Poem"
+            android:icon="@drawable/poem"
+>
+
+        </item>
+    </group>
+
+</menu>
